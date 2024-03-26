@@ -1,7 +1,7 @@
 ### Osss 🥋👋
 
 ###### About Me
-Desenvolvedor Fullstack.
+Desenvolvedor Fullstack graduado em Análise e Desenvolvimento de Sistemas. Sou uma pessoa muito organizada e próativa e autodidata, estou sendo procurando desenvolver as minhas habilidades
 
 ###### Details
 
