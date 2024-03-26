@@ -1,7 +1,7 @@
 ### Osss 🥋👋
 
 ###### About Me
-Estudante inicando no mundo da programação, com foco em desenvolvimento backend.
+Desenvolvedor Fullstack.
 
 ###### Details
 
